@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ZooSite</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="launch_photo">Ambil Foto</string>
+    <string name="launch_gallery">Galeri</string>
+    <string name="facts_sub">Fakta Unik</string>
+    <string name="description_sub">Deskripsi</string>
+</resources>
